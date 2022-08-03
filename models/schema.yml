@@ -1,0 +1,9 @@
+
+version: 2
+
+models:
+  - name: dim_mes
+    description: "Dimensões do Mês"
+
+  - name: soma_vals_por_mes
+    description: "Tabela com a soma das colunas Val por mês"
